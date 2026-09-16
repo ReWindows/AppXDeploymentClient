@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "AppXDeploymentClient.dll",
+  "latest": "3710971973-924E29C9A98AB1A3129777F274A22253-1",
+  "builds": [
+    {
+      "key": "3710971973-924E29C9A98AB1A3129777F274A22253-1",
+      "timestamp": "3710971973",
+      "pdb_guid": "924E29C9A98AB1A3129777F274A22253",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3710971973-924E29C9A98AB1A3129777F274A22253-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
